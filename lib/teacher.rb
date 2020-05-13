@@ -7,3 +7,6 @@ class Teacher < User
   end
   
 end
+
+
+#KNOWLEDGE.sample - does the same thing above FYI!
